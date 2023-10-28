@@ -1,4 +1,6 @@
 package dev.jombi.woorole
 
-class Config {
-}
+import kotlinx.serialization.Serializable
+
+@Serializable
+data class Config(val token: String)
