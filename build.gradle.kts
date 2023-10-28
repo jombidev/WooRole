@@ -1,6 +1,9 @@
+import org.jetbrains.kotlin.gradle.dsl.KotlinVersion
+
 plugins {
     kotlin("jvm") version "1.9.0"
     kotlin("plugin.serialization") version "1.9.0"
+    application
 }
 
 group = "dev.jombi"
@@ -26,5 +29,13 @@ tasks.test {
 }
 
 kotlin {
-    jvmToolchain(8)
+    compilerOptions {
+        jvmToolchain(11)
+        languageVersion.set(KotlinVersion.KOTLIN_1_9)
+        apiVersion.set(KotlinVersion.KOTLIN_1_9)
+    }
+}
+
+application {
+    mainClass.set("dev.jombi.woorole.MainKt")
 }
