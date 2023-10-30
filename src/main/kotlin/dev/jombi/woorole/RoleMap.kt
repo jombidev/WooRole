@@ -14,7 +14,7 @@ enum class RoleMap(val displayName: String, val id: String) {
     MUSE_DASH("Muse Dash", "1167101886722220083"),
     ARCAEA("Arcaea", "1167102000199110716"),
     PHIGROS("Phigros", "1167102053651337267"),
-    SIXSTAR("SixStarGate", "1167102196098273280"),
+    SIXTAR("Sixtar Gate", "1167102196098273280"),
     PUMP("Pump It Up", "1167102325987475587"),
     IIDX("Beatmania IIDX", "1167101810855657482"),
 }
