@@ -43,7 +43,9 @@ val roleDict = hashMapOf(
         RoleMap.PHIGROS to "1183612058424594442",
         RoleMap.SIXTAR to "1183612059930333205",
         RoleMap.PUMP to "1183612063130595338",
-        RoleMap.IIDX to "1183612065559097344"
+        RoleMap.IIDX to "1183612065559097344",
+        RoleMap.POP_EN_MUSIC to "1183655937249128488",
+        RoleMap.D4DJ to "1183655978302971934",
     ),
     "1081866481274462328" to hashMapOf(
         RoleMap.DJMAX to "1167098817049534485",
@@ -61,7 +63,9 @@ val roleDict = hashMapOf(
         RoleMap.PHIGROS to "1167102053651337267",
         RoleMap.SIXTAR to "1167102196098273280",
         RoleMap.PUMP to "1167102325987475587",
-        RoleMap.IIDX to "1167101810855657482"
+        RoleMap.IIDX to "1167101810855657482",
+        RoleMap.POP_EN_MUSIC to "1167101810855657482",
+        RoleMap.D4DJ to "1167101810855657482",
     )
 )
 

@@ -17,4 +17,6 @@ enum class RoleMap(val displayName: String, val roleName: String) {
     SIXTAR("Sixtar Gate", "Sixtar Gate: STARTRAIL"),
     PUMP("Pump It Up", "Pump It Up Series"),
     IIDX("Beatmania IIDX", "beatmania IIDX Series"),
+    POP_EN_MUSIC("Pop'n music", "pop'n music Series"),
+    D4DJ("D4DJ", "D4DJ Groovy Mix")
 }
