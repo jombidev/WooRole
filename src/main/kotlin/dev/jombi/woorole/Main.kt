@@ -64,8 +64,8 @@ val roleDict = hashMapOf(
         RoleMap.SIXTAR to "1167102196098273280",
         RoleMap.PUMP to "1167102325987475587",
         RoleMap.IIDX to "1167101810855657482",
-        RoleMap.POP_EN_MUSIC to "1167101810855657482",
-        RoleMap.D4DJ to "1167101810855657482",
+        RoleMap.POP_EN_MUSIC to "1183792477363245228",
+        RoleMap.D4DJ to "1183792407020572684",
     )
 )
 
